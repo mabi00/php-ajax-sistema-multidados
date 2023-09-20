@@ -1,9 +1,7 @@
-# multidados
-teste multidados.
-todas etapas concluídas.
+Atualizamos tabelas com requisições assíncronas via ajax.
 
-![image](https://github.com/mabi00/multidados/assets/86784908/c89310f1-9ab7-42e3-9c99-3433151ba1be)
+![image](https://github.com/mabi00/php-ajax-sistema-multidados/assets/86784908/54c2d703-e46d-4705-9c86-02b3746cfb5e)
 
-![image](https://github.com/mabi00/multidados/assets/86784908/8d1a6837-9758-4229-bcde-0927e52f21ef)
+![image](https://github.com/mabi00/php-ajax-sistema-multidados/assets/86784908/5720c2a5-f53c-4675-b593-279ba16162e3)
 
-![image](https://github.com/mabi00/multidados/assets/86784908/d7b55e44-4896-4c30-bd26-ff3e68c94070)
+![image](https://github.com/mabi00/php-ajax-sistema-multidados/assets/86784908/a3a14b70-16ea-49bb-ae3e-c4c8396d66ba)
